@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="800dp"
+    android:id="@+id/popup"
+    android:layout_height="200dp"
+    android:background="@color/category_average"
+    android:orientation="vertical" >
+</LinearLayout>
